@@ -11,7 +11,7 @@ Var
 Procedimento CalculoIMC(P, A: Real)
 Inicio
       IMC <- P / (A * A)
-      Escreva("Seu IMC é: ",IMC)
+      Escreva("Seu IMC é: ",IMC:5:2)
 FimProcedimento
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
