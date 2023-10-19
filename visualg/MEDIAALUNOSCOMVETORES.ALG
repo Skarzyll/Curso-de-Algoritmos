@@ -30,6 +30,6 @@ Inicio
      
      Para I <- 1 ate 5 faca
         EscrevaL("Aluno(a):",Nome[I])
-        EscrevaL("Media de",M[I]," pontos!")
+        EscrevaL("Media da turma é de",M[I]," pontos!")
      FimPara
 Fimalgoritmo
